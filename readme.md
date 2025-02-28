@@ -1,5 +1,7 @@
 English version see below after Chinese version.
 
+If you are looking for Windows software, go to [windows-shortcut](https://github.com/Tzxhy/windows-shortcut).
+
 
 # MacOS上鼠标翻页软件
 在mac上，如果有触摸板，可以很容易多指切换屏幕窗口。但对于Mac Mini，或者使用鼠标的用户，如果你的鼠标没有额外的功能键，或者无法装对应的驱动，那么你只能通过键盘：Ctrl + Left/Right 来切换窗口了。通过本工具，可以直接用鼠标中键来切换窗口：
